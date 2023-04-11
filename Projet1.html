@@ -11,9 +11,20 @@
     <link rel="stylesheet" href="CSS/footer_CSS.css">
 </head>
 <body>
-    <?php
-        require_once('header-nav.php');
-    ?>
+    <header>
+        <div>
+            <h1>FAURE BRYCE</h1> 
+            <p>étudiant en BTS SIO</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.php#Titre">Accueil</a></li>
+                <li><a href="index.php#aPropos">À Propos</a></li>
+                <li><a href="index.php#projet">Projet</a></li>
+                <li><a href="index.php#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
     
     <h1 id="grand-titre">Projet de stage n°1</h1>
     <div id="all-page">
@@ -133,10 +144,25 @@
             </div>
         </div>
     </div>
-    
-    
-    <?php
-        require_once('footer.php');
-    ?>
+
+    <footer>
+        <div id="contact">
+            <div id = div-total>
+                <div id = div-img-gauche>
+                    <img src="img/img-gauche.gif" alt="gif">
+                </div>
+                <div id = div-info>
+                    <h2>Contact</h2>
+                    <div>
+                        <a href="https://fr.linkedin.com/in/bryce-faure-a77ba6228?trk=public_profile_browsemap"><img src="img/LinkedIn_icon.png" alt="LinkedIn"></a>
+                    </div>
+                    <p>© 2023 par Bryce FAURE</p>
+                </div>
+                <div id = div-img-droite>
+                    <img src="img/img-droite.gif" alt="gif">
+                </div>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>
