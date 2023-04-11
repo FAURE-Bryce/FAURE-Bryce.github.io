@@ -52,15 +52,3 @@
 #descriptionPage .descriptionPageNormal a img{
     width: 100%;
 }
-
-#descriptionPage .descriptionPageNormal .sousBox{
-    margin-top: 1%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    color: white;
-    border: 1px solid black;
-    border-radius: 1rem;
-    padding: 1rem;
-    background-color: rgb(29, 29, 29);
-}
