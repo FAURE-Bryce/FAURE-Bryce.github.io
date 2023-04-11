@@ -1,0 +1,47 @@
+header{
+    background-color: #001630;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1{
+    font-size: 2rem;
+    margin-left: 0.75rem;
+    margin-bottom: 0px;
+    margin-top: 0.25rem;
+    margin-right: 0.25rem;
+}
+
+header p{
+    font-size: 1rem;
+    margin-left: 0.75rem;
+    margin-top: 0px;
+    margin-bottom: 0.25rem;
+    margin-right: 0.25rem;
+    text-align: center;
+}
+
+header nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+    transition: all 300ms;
+}
+
+header nav a:hover{
+    font-size: 1.7rem;
+}
+
+header nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav li{
+    list-style: none;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding: 1rem;
+}

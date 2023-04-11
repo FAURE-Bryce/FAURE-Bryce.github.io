@@ -1,0 +1,250 @@
+*{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#all-page{
+    margin: 1rem;
+}
+
+#all-page h5{
+    font-size: 2.1rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+#all-page p{
+    font-size: 1.3rem;
+    margin: 1rem;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+#grand-titre{
+    font-size: 2.7rem;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+
+.Accueil-img1{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgb(223, 223, 223);
+}
+
+.Accueil-img1 p{
+    margin-bottom: 1rem;
+}
+
+.Accueil-img1 img{
+    max-width: 75%;
+}
+
+.Article-img1{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+    background-color: rgb(223, 223, 223);
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Article-img1 p{
+    margin-right: 1rem;
+}
+
+.Article-img1 img{
+    max-width: 150rem;
+}
+
+.Article-img2{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgb(223, 223, 223);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Article-img2 p{
+    margin-bottom: 1rem;
+}
+
+.Article-img2 img{
+    max-width: 100%;
+}
+
+.Article-img3{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgb(223, 223, 223);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Article-img3 p{
+    margin-bottom: 1rem;
+}
+
+.Article-img3 img{
+    max-width: 100%;
+}
+
+.Article-img4{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgb(223, 223, 223);
+}
+
+.Article-img4 p{
+    margin-bottom: 1rem;
+}
+
+.Article-img4 img{
+    max-width: 100%;
+}
+
+.Client-img2{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgb(223, 223, 223);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Client-img2 p{
+    margin-bottom: 1rem;
+}
+
+.Client-img2 img{
+    max-width: 100%;
+}
+
+.Client-img1{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    background-color: rgb(223, 223, 223);
+    max-width: 25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Client-img1 p{
+    margin-bottom: 1rem;
+}
+
+.Client-img1 img{
+    max-width: 100%;
+}
+
+.Client-img2-Client-img1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Client-img5{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgb(223, 223, 223);
+}
+
+.Client-img5 p{
+    margin-bottom: 1rem;
+}
+
+.Client-img5 img{
+    max-width: 100%;
+}
+
+.Client-img3{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgb(223, 223, 223);
+}
+
+.Client-img3 p{
+    margin-bottom: 1rem;
+}
+
+.Client-img3 img{
+    max-width: 100%;
+}
+
+.Client-img4{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgb(223, 223, 223);
+}
+
+.Client-img4 p{
+    margin-bottom: 1rem;
+}
+
+.Client-img4 img{
+    max-width: 100%;
+}
+
+.Blog-img1{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgb(223, 223, 223);
+}
+
+.Blog-img1 p{
+    margin-bottom: 1rem;
+}
+
+.Blog-img1 img{
+    max-width: 100%;
+}
+
+.Blog-img2{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgb(223, 223, 223);
+}
+
+.Blog-img2 p{
+    margin-bottom: 1rem;
+}
+
+.Blog-img2 img{
+    max-width: 100%;
+}
+
+
+/*
+.Blog-img1
+.Blog-img2 */
