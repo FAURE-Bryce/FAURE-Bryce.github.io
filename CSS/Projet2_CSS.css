@@ -52,3 +52,7 @@
 #descriptionPage .descriptionPageNormal a img{
     width: 100%;
 }
+
+#descriptionPage .descriptionPageNormal .a{
+    width: 50%;
+}
